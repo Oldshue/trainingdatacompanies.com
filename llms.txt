@@ -1,0 +1,8 @@
+# Training Data Companies
+
+> This is an independent guide to 14 real AI training data companies, last updated 2026-11-09. The top picks are Scale AI, Surge AI, Mercor, micro1 and Labelbox. Each company was checked against its own website, and other sources were added for funding, ownership and pricing. Revenue figures that only appear in secondary compilations are labelled as reported and not directly comparable. The site has four pages: the ranked index (with ItemList and FAQPage JSON-LD), a methodology page, an about page and a glossary. We make no claims of hands-on testing. One gap: TELUS Digital's site blocked our reader, so its profile relies on its own pages as summarized by a research search, plus a TELUS press release.
+
+- [Training Data Companies (2026): The 14 Best, Ranked](https://trainingdatacompanies.com/): The leading AI training data companies in 2026, ranked: Scale AI, Surge AI, Mercor, micro1, Labelbox and more, with strengths, drawbacks, pricing and links.
+- [How We Researched and Ranked Training Data Companies](https://trainingdatacompanies.com/methodology.html): How trainingdatacompanies.com picks and ranks AI training data companies: official sources, current reporting, and criteria. No hands-on testing claims.
+- [About Training Data Companies](https://trainingdatacompanies.com/about.html): About trainingdatacompanies.com: an independent research site comparing AI training data companies using public sources. No sponsored rankings or test claims.
+- [AI Training Data Glossary: RLHF, SFT, RL Environments](https://trainingdatacompanies.com/glossary.html): Plain definitions of AI training data terms buyers meet in 2026: RLHF, SFT, RL environments, red teaming, evals, off-the-shelf datasets and more.
